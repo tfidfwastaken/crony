@@ -1,0 +1,7 @@
+#+TITLE: crony
+
+sketchy but quick task scheduling.
+
+currently only useful for mac users. it converts cron syntax to launchd format, because who the heck wants to type raw XML.
+
+soon enough I'll try to make it parse something more than cron (more natural language?) and convert it to more backends (crontab for *nix and whatever smoked cheese windows uses)
